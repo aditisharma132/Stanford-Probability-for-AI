@@ -1,0 +1,7 @@
+A tool that scores how AI-like or human-like a word sounds, built for Stanford's Probability for AI.
+
+- **One word:** estimate P(word | AI) and P(word | human) by counting how often a word appears in 1,000 AI and 1,000 human responses (e.g. "imagine": 0.39 vs 0.02).
+- **Generalize:** repeat for 25 words and rank them.
+- **Visualize:** results table plus the raw data.
+
+🔗 [View the project](https://pai.stanford.edu/pai/share/ofS99PRmL00UPdF7KFJg)
